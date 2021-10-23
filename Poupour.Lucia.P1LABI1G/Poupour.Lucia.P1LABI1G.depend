@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1634950512 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1634943551 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\funciones.h
+
+1634947286 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1634942203 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\fecha.h
+
+1634950780 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"micro.h"
+	"funciones.h"
+	"empresa.h"
+	"tipo.h"
+
+1634950769 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\micro.h
+	"empresa.h"
+	"tipo.h"
+
+1634950811 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+
+1634942536 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1634950112 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"micro.h"
+
+1634950113 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\empresa.h
+
+1634948741 c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\tipo.h
+
+1634948751 source:c:\users\lpoupour\onedrive - axxon consulting\documentos\documentos lucía\facultad\porgramación i\poupour.lucia.p1labi1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"tipo.h"
+
